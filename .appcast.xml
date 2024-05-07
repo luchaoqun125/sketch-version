@@ -2,7 +2,7 @@
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
     <item>
-      <enclosure url="" sparkle:version="0.1.0"/>
+      <enclosure url="https://github.com/luchaoqun125/sketch-version/raw/master/easy-code.sketchplugin.zip" sparkle:version="0.1.0"/>
     </item>
   </channel>
 </rss>
